@@ -1,0 +1,19 @@
+[
+	{
+		"names": [
+			"C_VOLUME_UP"
+		],
+		"description": "C_VOLUME_UP",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
